@@ -1,0 +1,72 @@
+[
+    {
+        "id": "ID001",
+        "name": "Ricarth",
+        "lastName": "Lima",
+        "accountType": "Ouro",
+        "balance": 113.0
+    },
+    {
+        "id": "ID002",
+        "name": "Ana",
+        "lastName": "Silva",
+        "accountType": "Prata",
+        "balance": 250.0
+    },
+    {
+        "id": "ID003",
+        "name": "Bruno",
+        "lastName": "Santos",
+        "accountType": "Bronze",
+        "balance": 75.0
+    },
+    {
+        "id": "ID004",
+        "name": "Carla",
+        "lastName": "Oliveira",
+        "accountType": "Ouro",
+        "balance": 500.0
+    },
+    {
+        "id": "ID005",
+        "name": "Daniel",
+        "lastName": "Ferreira",
+        "accountType": "Prata",
+        "balance": 180.0
+    },
+    {
+        "id": "ID006",
+        "name": "Elisa",
+        "lastName": "Costa",
+        "accountType": "Ouro",
+        "balance": 320.0
+    },
+    {
+        "id": "ID007",
+        "name": "Fábio",
+        "lastName": "Pereira",
+        "accountType": "Bronze",
+        "balance": 60.0
+    },
+    {
+        "id": "ID008",
+        "name": "Gabriela",
+        "lastName": "Rodrigues",
+        "accountType": "Prata",
+        "balance": 200.0
+    },
+    {
+        "id": "ID009",
+        "name": "Henrique",
+        "lastName": "Martins",
+        "accountType": "Ouro",
+        "balance": 450.0
+    },
+    {
+        "id": "ID010",
+        "name": "Isabela",
+        "lastName": "Almeida",
+        "accountType": "Prata",
+        "balance": 210.0
+    }
+]
